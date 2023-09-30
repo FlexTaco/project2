@@ -1,4 +1,4 @@
-# Web Development Project 2 - _Name of App Here_
+# Web Development Project 2 - regex
 
 Submitted by: Joffre Villacis
 
@@ -29,8 +29,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+<div>
+    <a href="https://www.loom.com/embed/c645858507c6475ab6d1b8cf1bd08686?sid=6d465ec2-903f-47dd-a3f8-86445e16b237">
+      <p>Vite + React - 30 September 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/c645858507c6475ab6d1b8cf1bd08686?sid=92fef5ad-ab17-45c0-bc0f-447c2c9b9446">
+      <img style="max-width:300px;" src="https://www.loom.com/embed/c645858507c6475ab6d1b8cf1bd08686?sid=6d465ec2-903f-47dd-a3f8-86445e16b237.gif">
+    </a>
+  </div>
 
-<img src='<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/c645858507c6475ab6d1b8cf1bd08686?sid=6d465ec2-903f-47dd-a3f8-86445e16b237" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with loom
 
