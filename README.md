@@ -1,7 +1,4 @@
-# Web Development Project 2 - regex
-
-Submitted by: Joffre Villacis
-
+Project 2 - regex
 This web app: project2
 
 Time spent: 10 hours spent in total
@@ -22,10 +19,6 @@ The following **optional** features are implemented:
 - [x] Cards have different visual styles such as color based on their category
   - [x] _visual style implemented_
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
@@ -40,10 +33,6 @@ Here's a walkthrough of implemented required features:
 
 
 GIF created with loom
-
-## Notes
-
-figuring out how to style the flipping animation of the card was pretty time consuming but the rest was fine
 
 ## License
 
